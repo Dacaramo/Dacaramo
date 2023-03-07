@@ -1,6 +1,6 @@
 [![MasterHead](https://phuketprivateparty.com/wp-content/uploads/2012/09/new-york-1920x500.jpg)](https://phuketprivateparty.com/wp-content/uploads/2012/09/new-york-1920x500.jpg)
 <h1 align="center">Howdy partner, name's Daniel</h1>
-<h3 align="center">An experienced fullstack engineer from Colombia</h3>
+<h3 align="center">An MVP enthusiast that doesn't get bored of bringing to life ideas with the best coding practices</h3>
 
 <img align="right" alt="Coding" width="200" src="https://gifdb.com/images/file/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif"/>
 
