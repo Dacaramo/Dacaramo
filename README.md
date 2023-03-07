@@ -1,4 +1,4 @@
-[![MasterHead](https://phuketprivateparty.com/wp-content/uploads/2012/09/new-york-1920x500.jpg)](https://phuketprivateparty.com/wp-content/uploads/2012/09/new-york-1920x500.jpg)
+[![MasterHead](https://www.delmarworld.com/wp-content/uploads/working-pattern-internet-abstract-1089438.jpg)](https://www.delmarworld.com/wp-content/uploads/working-pattern-internet-abstract-1089438.jpg)
 <h1 align="center">Howdy partner, name's Daniel</h1>
 <h3 align="center">An MVP enthusiast that doesn't get bored of bringing to life ideas with the best coding practices</h3>
 
