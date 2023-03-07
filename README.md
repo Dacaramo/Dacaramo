@@ -2,8 +2,6 @@
 <h1 align="center">Howdy partner, name's Daniel</h1>
 <h3 align="center">An MVP enthusiast that doesn't get bored of bringing to life ideas with the best coding practices</h3>
 
-<img align="right" alt="Coding" width="200" src="https://gifdb.com/images/file/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif"/>
-
 - 🔭 I’m currently working on [a collab marketplace for content creators so they can buy, sell and trade collabs with other creators](https://github.com/CollabyOrg/collaby-app)
 
 - 🌱 I’m currently learning **Vite, Electron, Selenium**
