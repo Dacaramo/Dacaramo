@@ -1,6 +1,6 @@
 [![MasterHead](https://www.delmarworld.com/wp-content/uploads/working-pattern-internet-abstract-1089438.jpg)](https://www.delmarworld.com/wp-content/uploads/working-pattern-internet-abstract-1089438.jpg)
 <h1 align="center">Howdy partner, name's Daniel</h1>
-<h3 align="center">An MVP enthusiast that doesn't get bored of bringing to life ideas with the best coding practices</h3>
+<h3 align="center">An MVP enthusiast that will never get bored bringing to life ideas with the best coding practices</h3>
 
 - 🔭 I’m currently working on [a collab marketplace for content creators so they can buy, sell and trade collabs with other creators](https://github.com/CollabyOrg/collaby-app)
 
