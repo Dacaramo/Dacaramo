@@ -2,7 +2,7 @@
 <h1 align="center">Howdy partner, name's Daniel</h1>
 <h3 align="center">A passionate Software Engineer 🚀 | Tech Guru & Lead 🧑‍🏫 | React.js | Next.js | React Native | Expo | Node.js | Python | AWS</h3>
 
-- 🔭 I’m currently working on **Collaby**
+- 🔭 I’m currently working on **Ramzeis Store**
 
 - 💬 Ask me about **React, React Native, JavaScript, TypeScript, AWS**
 
